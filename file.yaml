@@ -1,0 +1,8 @@
+folder_in: /home/user/tst/file
+folder_out: /home/user/tst/out
+folder_ext: /home/user/tst/ext
+folder_badarx: /home/user/tst/badarx
+folder_home: /home/user/tst/home
+count_file: 10
+size_file: 5M
+name_of_arch: '*.7z'
